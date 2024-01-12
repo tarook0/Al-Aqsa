@@ -80,3 +80,7 @@ This project is a simulation of the Al Aqsa Mosque using C++ and modern OpenGL. 
 
 ### Music
 - [Azan](https://youtu.be/BjpzcLsJeBs)
+
+## Special Thanks
+We would like to express our special thanks to the following project:
+- [AntWare](https://github.com/YamanQD/AntWare.git):
