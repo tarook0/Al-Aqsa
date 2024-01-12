@@ -27,7 +27,7 @@ This project is a simulation of the Al Aqsa Mosque using C++ and modern OpenGL. 
  - Assimp library
  ## Installation1.
 - Clone this repository to your local machine using the following command:
-        ```1.git clone https://github.com/tarook0/Al Aqsa.git```
+        ```1.git clone https://github.com/tarook0/Al-Aqsa.git```
         ```2. Navigate to the project directory:cd Al Aqsa.```
         ```3. Build the project using  build system (meson), ensuring that all required libraries are linked correctly.```
 ## UsageOnce the project is successfully built,
@@ -44,7 +44,7 @@ This project is a simulation of the Al Aqsa Mosque using C++ and modern OpenGL. 
  - K: Toggle lighting mode (day).
  - L: Toggle lighting mode (Of).
  - CTRl : Move downward.
- - left_shift : Move downward.
+ - Left_shift : Move downward.
  - Esc: Exit the simulation.
 
  ## ContributingContributions
