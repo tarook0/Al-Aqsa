@@ -20,7 +20,7 @@ This project is a simulation of the Al Aqsa Mosque using C++ and modern OpenGL. 
 ## RequirementsTo run this simulation project,
  you need to have the following software and libraries installed on your system:
  - C++ compiler (supporting C++11 or higher)
- - OpenGL library (modern OpenGL)
+ - Modern OpenGL (supporting OpenGl 3.3 )
  - SFML library
  - GLEW library
  - GLM library
@@ -43,8 +43,8 @@ This project is a simulation of the Al Aqsa Mosque using C++ and modern OpenGL. 
  - J: Toggle lighting mode (day/night).
  - K: Toggle lighting mode (day).
  - L: Toggle lighting mode (Of).
- - CTRl : Move downward.
- - Left_shift : Move downward.
+ - CTRl : Move Downward.
+ - Left_shift : Move Upward.
  - Esc: Exit the simulation.
 
  ## ContributingContributions
